@@ -1,0 +1,2 @@
+export(dotproduct)
+useDynLib(simplexample, dotproduct_dot_c, dotproduct_dot_call, dotproduct_dot_external)

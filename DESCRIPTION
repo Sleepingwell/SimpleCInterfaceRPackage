@@ -1,0 +1,9 @@
+Package: simplexample
+Type: Package
+Title: Demonstrate calls to a C function.
+Version: 1.0
+Date: 2012-08-16
+Author: Simon Knapp
+Maintainer: Simon Knapp <simon.knapp@verusol.com>
+Description: A package that shows how one might use the .C .Call and .External interfaces for calculating a dot product.
+License: GPL
